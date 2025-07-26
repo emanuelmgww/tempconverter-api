@@ -56,6 +56,8 @@ API para converter temperaturas entre Celsius, Fahrenheit e Kelvin.
 
 ``` 
 
+---
+
 ## 🌐 Acesse os endpoints aqui
 
 A API está publicada e disponível para testes no seguinte endereço:  
